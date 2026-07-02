@@ -31,7 +31,7 @@ The objective of this project is to analyze airline performance and answer key b
 
 # 📊 Dashboard Preview
 
-> ![Airline Performance Dashboard](dashboard-preview.png)
+> ![Airline Performance Dashboard](dashboard.png)
 
 ---
 
